@@ -186,10 +186,10 @@ button:hover{
 }
 
 .headset img{
-    width: 10%;
+    width: 9%;
     position: fixed;
     right: 66px;
-    top: 189px;
+    bottom: 18px;
     z-index:1;
 }
 /* main-middle end here */
